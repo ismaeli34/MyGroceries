@@ -36,7 +36,7 @@ export class ShoppingCartService {
 
   addToCart(product: ProductModel){
 
-    
+
   }
 
 }
