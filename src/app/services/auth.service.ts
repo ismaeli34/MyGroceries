@@ -1,12 +1,10 @@
 import {Injectable} from '@angular/core';
-import {Observable} from 'rxjs';
 import * as firebase from 'firebase';
 import {ActivatedRoute} from '@angular/router';
 import {AngularFireAuth} from 'angularfire2/auth';
+import {Observable} from 'rxjs/Observable';
 
-@Injectable({
-  providedIn: 'root'
-})
+@Injectable()
 export class AuthService {
 
   user$: Observable<firebase.User>;
