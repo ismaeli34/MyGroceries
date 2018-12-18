@@ -1,5 +1,7 @@
 # MyGroceries
 
+It is a online food and groceries application where people can order and get delivered their order right to their doorstep
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
 ## Development server
