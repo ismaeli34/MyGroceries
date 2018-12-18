@@ -2,6 +2,9 @@
 
 It is a online food and groceries application where people can order and get delivered their order right to their doorstep
 
+![shopping_cart_application](https://user-images.githubusercontent.com/17925504/50169427-90cb1100-0313-11e9-871d-b51728f61374.PNG)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
 ## Development server
